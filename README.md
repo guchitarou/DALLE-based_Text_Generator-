@@ -1,1 +1,1 @@
-# DALLE-based_Text_Generator-
+# DALLE-based_Text_Generator
